@@ -1,0 +1,21 @@
+.header-reg i{
+
+    top: 12px;
+    left: 12px;
+    font-size: 28px;
+    color: #00f;
+}
+
+.result{
+    background-color: #f00;
+    text-align: center;
+   padding: 10px;
+   margin: 10px;
+}
+
+.header-success i{
+    font-size: 30px;
+    bottom: 46px;
+    left: 195px;
+    color: rgb(0, 255, 42);
+}
